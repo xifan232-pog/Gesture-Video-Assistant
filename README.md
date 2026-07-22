@@ -8,7 +8,7 @@
 
 |                        桌面悬浮窗 UI                         |                         手势控制演示                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![image-20260722185440164](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20260722185440164.png) | ![image-20260722185705164](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20260722185705164.png) |
+| ![image-20260722185440164](C:\Users\lenovo\Desktop\python\GestureAssistant\assets\image1.png) | ![image-20260722185705164](C:\Users\lenovo\Desktop\python\GestureAssistant\assets\image2.png) |
 
 ---
 
@@ -19,21 +19,21 @@
 ### ✨ 核心功能一览
 * **视频切换**：伸出食指向上/向下切上/下一个视频。
 
-  ![image-20260722185817965](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20260722185817965.png)        
+  ![image-20260722185817965](C:\Users\lenovo\Desktop\python\GestureAssistant\assets\image3.png)        
 
 * **快捷点赞**：食指与大拇指捏合，快速触发视频点赞。
 
-  ### ![image-20260722185836016](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20260722185836016.png)
+​	![image4](C:\Users\lenovo\Desktop\python\GestureAssistant\assets\image4.png)	
 
 * **音量调节**：大拇指朝上/朝下直接控制系统全局音量。
 
-  ### ![image-20260722185948252](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20260722185948252.png)
+  ### ![image-20260722185948252](C:\Users\lenovo\Desktop\python\GestureAssistant\assets\image5.png)
 
 * **自动聚焦与播放**：输入网址跳转后，自动聚焦网页视频区域并触发播放。  
 
 * **数据统计与预览**：实时预览摄像头画面，并自动统计已看视频数量。
 
-  ### ![image-20260722190021284](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20260722190021284.png)    
+  ### ![image-20260722190021284](C:\Users\lenovo\Desktop\python\GestureAssistant\assets\image6.png)    
 
 ---
 
