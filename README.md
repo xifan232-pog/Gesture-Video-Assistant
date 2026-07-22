@@ -17,13 +17,14 @@
 **刷视频手势助手** 是一款专注于提升短视频/长视频浏览体验的辅助工具。它会在桌面生成一个透明、置顶的微型悬浮窗，通过摄像头实时捕捉并分析用户的手势，将其转化为网页端的控制指令。
 
 ### ✨ 核心功能一览
+
 * **视频切换**：伸出食指向上/向下切上/下一个视频。
 
   ![image-20260722185817965](C:\Users\lenovo\Desktop\python\GestureAssistant\assets\image3.png)        
 
 * **快捷点赞**：食指与大拇指捏合，快速触发视频点赞。
 
-​	![image4](C:\Users\lenovo\Desktop\python\GestureAssistant\assets\image4.png)	
+	![image4](C:\Users\lenovo\Desktop\python\GestureAssistant\assets\image4.png)	
 
 * **音量调节**：大拇指朝上/朝下直接控制系统全局音量。
 
@@ -51,12 +52,15 @@
 ## 3. 🛠️ 环境搭建与快速开始
 
 ### 依赖环境
+
 * Python 3.8+
 * 操作系统：Windows 10 / 11 (推荐) 或 macOS
 
 ### 安装依赖库
+
 ```bash
 pip install opencv-python mediapipe PySide6 pyautogui
+```xxxxxxxxxx pip install opencv-python mediapipe PySide6 pyautoguibash
 ```
 
 ### 运行项目
